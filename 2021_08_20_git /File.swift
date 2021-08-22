@@ -11,3 +11,4 @@ let test = "hello"
 
 print(test)
 let text = "Xcode"
+let now = 5
