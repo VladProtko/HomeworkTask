@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+let test = "hello"
+
+print(test)
