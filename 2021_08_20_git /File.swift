@@ -6,3 +6,5 @@
 //
 
 import Foundation
+
+let text = "Xcode"
