@@ -8,3 +8,4 @@
 import Foundation
 
 let text = "Xcode"
+let now = 5
