@@ -10,3 +10,4 @@ import Foundation
 let test = "hello"
 
 print(test)
+let text = "Xcode"
