@@ -14,4 +14,3 @@ var result3 = doubleTest * Double(floatTest)
 var result4 = doubleTest * Double(integer16)
 var result5 = UInt32(integer8) + UInt32(integer16) + integer32
 var result6 = UInt32(Int32.max) + integer32
-//тест
