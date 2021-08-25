@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import Foundation
   var integer32: UInt32 = 320
   var integer8: UInt8 = 80
@@ -20,3 +21,7 @@ import Foundation
   var result6 = UInt32(Int32.max) + integer32
   var result3 = doubleTest / Double(floatTest)
   var result4 = doubleTest / Double(integer16)
+=======
+
+import Foundation
+>>>>>>> master
